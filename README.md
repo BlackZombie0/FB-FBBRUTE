@@ -9,7 +9,7 @@ $ pkg install python2
 
 $ git clone https://github.com/FSOCIETY-coder-dz/FSO-FBBRUTE.git
 
-cd FSO-FBBRUTE
+$ cd FSO-FBBRUTE
 
 $ pip install requests
 
