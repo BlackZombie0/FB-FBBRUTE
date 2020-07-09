@@ -1,5 +1,5 @@
-# FSO-FBBRUTE
-# FSOCIETY-ARAB
+# SPY-EYE Dz
+# FB-FBBRUTE
 
 $ Install on termux on kali liunx
 
@@ -7,9 +7,9 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone https://github.com/FSOCIETY-coder-dz/FSO-FBBRUTE.git
+$ git clone https://github.com/spyeye-dz/FB-FBBRUTE.git
 
-$ cd FSO-FBBRUTE
+$ cd FB-FBBRUTE
 
 $ pip install requests
 
